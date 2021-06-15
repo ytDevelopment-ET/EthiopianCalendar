@@ -7,7 +7,7 @@ Gregorian Calendar to Ethiopian Calendar Converter for PHP 7.4
 
 1. Extract the files on your server's root directory
 2. Go to your browser and navigate to **index.php**
-3. You will get current day in GC & EC format
+3. You will get current date in GC & EC format
 
 > Use the following code to convert GC to EC
 
