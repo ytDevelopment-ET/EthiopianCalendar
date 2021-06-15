@@ -1,5 +1,5 @@
 # EthiopianCalendar
-Gregorian Calendar to Ethiopian Calendar Converter for PHP
+Gregorian Calendar to Ethiopian Calendar Converter for PHP 7.4
 <br>
 <br>
 
