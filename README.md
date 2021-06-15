@@ -1,9 +1,10 @@
 # EthiopianCalendar
 Gregorian Calendar to Ethiopian Calendar Converter for PHP
 <br>
-`<?php
-    $EC = new EthiopianCalendar(date("Y-m-d")); // set current GC date
-    //$EC = new EthiopianCalendar(date("YYYY-mm-dd")); // custom date format
-    $EC->ECDrawCalendar(); // draw Ethiopian Calendar table
-    $EC->GCDrawCalendar(); // draw Gregorian Calendar table
+<br>
+`<?php`
+<br>`$EC = new EthiopianCalendar(date("Y-m-d")); // set current GC date`
+<br>`//$EC = new EthiopianCalendar(date("YYYY-mm-dd")); // custom date format`
+<br>`$EC->ECDrawCalendar(); // draw Ethiopian Calendar table`
+<br>`$EC->GCDrawCalendar(); // draw Gregorian Calendar table`
 ?>`
