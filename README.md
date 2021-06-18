@@ -26,4 +26,4 @@ Only two files are required to use the converter
 
 
 # Feedback
-Tell us what features should be added for the future releases.
+Tell us what features should be added in the future releases.
