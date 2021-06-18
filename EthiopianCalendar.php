@@ -2,7 +2,7 @@
 /*
  * Ethiopian Calendar v1.0 : https://github.com/ytDevelopment-ET/EthiopianCalendar
  *
- * Copyright (©) 2019-2020 ytDevelopment
+ * Copyright (©) 2019-2021 ytDevelopment
  * http://ytdevelopment.rf.gd/
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
