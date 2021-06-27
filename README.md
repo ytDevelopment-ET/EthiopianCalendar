@@ -9,6 +9,8 @@ Gregorian Calendar to Ethiopian Calendar Converter for PHP 7.4
 2. Go to your browser and navigate to **index.php**
 3. You will get current date in GC & EC format
 
+Or you can watch the demo [here](http://ytdevelopment.rf.gd/EthiopianCalendar/)
+
 > Use the following code to convert GC to EC
 
 `<?php`
