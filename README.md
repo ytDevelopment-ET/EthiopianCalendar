@@ -1,5 +1,5 @@
 # EthiopianCalendar
-Gregorian Calendar to Ethiopian Calendar Converter for PHP 7.4
+Gregorian Calendar to Ethiopian Calendar Converter for PHP 5 & 7
 <br>
 <br>
 
@@ -23,7 +23,8 @@ Or you can watch the demo [here](http://ytdevelopment.zya.me/EthiopianCalendar/)
 # Required Files
 
 Only two files are required to use the converter
-> EthiopianCalendar.php
+> EthiopianCalendar.php &
+
 > EthiopianCalendar.css
 
 
